@@ -1,0 +1,4 @@
+# CHANGELOG
+
+## 0.1.0 (January 9, 2021)
+Initial release.
