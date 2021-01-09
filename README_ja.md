@@ -34,6 +34,11 @@ gem 'repunit', :git => 'git@github.com:NSK-1010/ruby-repunit.git', :tag => 'バ�
 
 ## 使い方
 
+### 最初に
+```ruby
+require 'repunit'
+```
+
 ### レピュニットの桁数からレピュニットへ変換する
 ```ruby
 Repunit.convert(桁数)
@@ -44,9 +49,11 @@ Repunit.restore(レピュニット)
 ```
 ### 例
 ```ruby
+require 'repunit'
 p Repunit.convert(Repunit.restore(111111)) #=> 111111
 ```
 ```ruby
+require 'repunit'
 p 3 * Repunit.convert(4) #=> 3333
 ```
 
