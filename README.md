@@ -1,4 +1,8 @@
 # Repunit
+|[日本語](./README-ja.md)|[English](./README.md)|
+
+日本語版は[こちら](./README-ja.md)にあります
+
 Repunit Generation Library
 
 ## Installation
