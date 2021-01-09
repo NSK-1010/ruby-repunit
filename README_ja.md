@@ -1,4 +1,19 @@
 # Repunit
+<table>
+<thead>
+<tr>
+<th style="text-align:center">
+<a href="README_ja.md">日本語</a>
+</th>
+<th style="text-align:center">
+<a href="README.md">English</a>
+</th>
+</tr>
+</thead>
+</table>
+
+**English version is [here](./README.md).**
+
 レピュニットを生成するライブラリ
 
 ## インストール方法
