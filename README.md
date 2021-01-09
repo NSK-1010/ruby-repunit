@@ -35,6 +35,11 @@ Or install it yourself as:
 
 ## Usage
 
+### First step
+```ruby
+require 'repunit'
+```
+
 ### Convert from number of digits in Repunit to Repunit
 ```ruby
 Repunit.convert(digits)
@@ -45,9 +50,11 @@ Repunit.restore(Repunit)
 ```
 ### example
 ```ruby
+require 'repunit'
 p Repunit.convert(Repunit.restore(111111)) #=> 111111
 ```
 ```ruby
+require 'repunit'
 p 3 * Repunit.convert(4) #=> 3333
 ```
 
