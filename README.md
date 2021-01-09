@@ -3,7 +3,7 @@
 <thead>
 <tr>
 <th style="text-align:center">
-<a href="README-ja.md">日本語</a>
+<a href="README_ja.md">日本語</a>
 </th>
 <th style="text-align:center">
 <a href="README.md">English</a>
@@ -12,7 +12,7 @@
 </thead>
 </table>
 
-日本語版は[こちら](./README-ja.md)にあります
+**日本語版は[こちら](./README_ja.md)にあります**
 
 Repunit Generation Library
 
