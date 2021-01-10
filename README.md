@@ -21,7 +21,7 @@ Repunit Generation Library
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'repunit', :git => 'git@github.com:NSK-1010/ruby-repunit.git', :tag => 'Version'
+gem 'repunit', :git => 'https://github.com/NSK-1010/ruby-repunit.git', :tag => 'Version'
 ```
 
 And then execute:
@@ -31,7 +31,7 @@ And then execute:
 Or install it yourself as:
 
     $ gem install specific_install
-    $ gem specific_install git@github.com:NSK-1010/ruby-repunit.git Version
+    $ gem specific_install https://github.com/NSK-1010/ruby-repunit.git Version
 
 ## Usage
 
