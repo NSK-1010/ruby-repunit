@@ -10,8 +10,7 @@ module Repunit
       return repunit
     end
     def restore(repunit)
-      repunit.to_s.count('1') = repnum
-      return repnum
+      return repunit.to_s.count('1')
     end
   end
 end
