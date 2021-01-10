@@ -20,7 +20,7 @@
 あなたのアプリケーションのGemfileにこの文字列を追加してください。
 
 ```ruby
-gem 'repunit', :git => 'git@github.com:NSK-1010/ruby-repunit.git', :tag => 'バージョン'
+gem 'repunit', :git => 'https://github.com/NSK-1010/ruby-repunit.git', :tag => 'バージョン'
 ```
 
 そして、このコマンド実行してください。
@@ -30,7 +30,7 @@ gem 'repunit', :git => 'git@github.com:NSK-1010/ruby-repunit.git', :tag => 'バ�
 また、手動でインストールすることもできます。
 
     $ gem install specific_install
-    $ gem specific_install git@github.com:NSK-1010/ruby-repunit.git バージョン
+    $ gem specific_install https://github.com/NSK-1010/ruby-repunit.git バージョン
 
 ## 使い方
 
